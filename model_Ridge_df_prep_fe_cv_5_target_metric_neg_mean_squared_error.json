@@ -1,0 +1,1 @@
+{"model_type": "Ridge", "df_prep": "fe", "cv": 5, "target_metric": "neg_mean_squared_error", "r2_train": 0.8561, "r2_test": 0.8284, "MSE_train": 41134836784.5395, "MSE_test": 98630952435.3145, "business_metrics_train": 0.2995, "business_metrics_test": 0.324, "your_business_metrics_train": 0.2678, "your_business_metrics_test": 0.295}
